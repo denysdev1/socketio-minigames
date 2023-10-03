@@ -2,7 +2,7 @@
 
 It's a responsive app with a user-friendly interface built with Socket.IO and TypeScript for playing minigames with your friends online!
 
-[DEMO-LINK](https://socketio-minigames.onrender.com/)
+[DEMO-LINK](https://socketio-minigames.onrender.com/) (May take up to 2 minutes to start)
 
 ## Tech Stack
 
